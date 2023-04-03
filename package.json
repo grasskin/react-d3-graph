@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "d3": "^5.5.0",
-    "react": "^16.4.1",
+    "react": ">=16.4.1",
     "d3-drag": "^3.0.0"
   },
   "devDependencies": {
